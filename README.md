@@ -13,6 +13,10 @@ A collection of research papers related to Knowledge Reasoning with Natural Lang
 ### Symbolic reasoning
 
 ### Arithmetic reasoning
+1. Rabe, Markus Norman, et al. **Mathematical Reasoning via Self-Supervised Skip-Tree Training**. 2020. [paper](https://openreview.net/forum?id=YmqAnY0CMEy).
+2. Wei, Jason, et al. **Chain of Thought Prompting Elicits Reasoning in Large Language Models**. Jan. 2022. [paper](http://arxiv.org/abs/2201.11903).
+3. Welleck, Sean, et al. **NaturalProofs: Mathematical Theorem Proving in Natural Language**. June 2021. [paper](http://arxiv.org/abs/2104.01112).
+
 
 ### Survey Papers
 
