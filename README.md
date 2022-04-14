@@ -16,6 +16,10 @@ A collection of research papers related to Knowledge Reasoning with Natural Lang
 5. Sap, Maarten, et al. **Commonsense Reasoning for Natural Language Processing**. 2020. [paper](https://doi.org/10.18653/v1/2020.acl-tutorials.7).
 
 ### Symbolic reasoning
+1. Arabshahi, Forough, et al. **Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules**. Sept. 2021. [paper](http://arxiv.org/abs/2109.08544).
+2. Kassner, Nora, et al. **Are Pretrained Language Models Symbolic Reasoners over Knowledge?**. 2020. [paper](https://doi.org/10.18653/v1/2020.conll-1.45).
+3. Minervini, Pasquale, et al. **Differentiable Reasoning on Large Knowledge Bases and Natural Language**. Apr. 2020. [paper](https://doi.org/10.1609/aaai.v34i04.5962).
+4. Yang, Kaiyu, and Jia Deng. **Learning Symbolic Rules for Reasoning in Quasi-Natural Language**. Nov. 2021. [paper](http://arxiv.org/abs/2111.12038).
 
 ### Arithmetic reasoning
 1. Rabe, Markus Norman, et al. **Mathematical Reasoning via Self-Supervised Skip-Tree Training**. 2020. [paper](https://openreview.net/forum?id=YmqAnY0CMEy).
