@@ -9,6 +9,11 @@ A collection of research papers related to Knowledge Reasoning with Natural Lang
 ------
 
 ### Commonsense Reasoning
+1. Bosselut, Antoine, et al. **COMET: Commonsense Transformers for Automatic Knowledge Graph Construction**. June 2019. [paper](http://arxiv.org/abs/1906.05317).
+2. Da, Jeff, et al. **Analyzing Commonsense Emergence in Few-Shot Knowledge Models**. Sept. 2021. [paper](http://arxiv.org/abs/2101.00297).
+3. Liu, Jiacheng, et al. **Generated Knowledge Prompting for Commonsense Reasoning**. Mar. 2022. [paper](http://arxiv.org/abs/2110.08387).
+4. ---. **Generated Knowledge Prompting for Commonsense Reasoning**. Mar. 2022. [paper](http://arxiv.org/abs/2110.08387).
+5. Sap, Maarten, et al. **Commonsense Reasoning for Natural Language Processing**. 2020. [paper](https://doi.org/10.18653/v1/2020.acl-tutorials.7).
 
 ### Symbolic reasoning
 
