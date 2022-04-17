@@ -15,13 +15,13 @@ A collection of research papers related to Knowledge Reasoning with Natural Lang
 4. ---. **Generated Knowledge Prompting for Commonsense Reasoning**. Mar. 2022. [paper](http://arxiv.org/abs/2110.08387).
 5. Sap, Maarten, et al. **Commonsense Reasoning for Natural Language Processing**. 2020. [paper](https://doi.org/10.18653/v1/2020.acl-tutorials.7).
 
-### Symbolic reasoning
+### Symbolic Reasoning
 1. Arabshahi, Forough, et al. **Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules**. Sept. 2021. [paper](http://arxiv.org/abs/2109.08544).
 2. Kassner, Nora, et al. **Are Pretrained Language Models Symbolic Reasoners over Knowledge?**. 2020. [paper](https://doi.org/10.18653/v1/2020.conll-1.45).
 3. Minervini, Pasquale, et al. **Differentiable Reasoning on Large Knowledge Bases and Natural Language**. Apr. 2020. [paper](https://doi.org/10.1609/aaai.v34i04.5962).
 4. Yang, Kaiyu, and Jia Deng. **Learning Symbolic Rules for Reasoning in Quasi-Natural Language**. Nov. 2021. [paper](http://arxiv.org/abs/2111.12038).
 
-### Arithmetic reasoning
+### Arithmetic Reasoning
 1. Rabe, Markus Norman, et al. **Mathematical Reasoning via Self-Supervised Skip-Tree Training**. 2020. [paper](https://openreview.net/forum?id=YmqAnY0CMEy).
 2. Wei, Jason, et al. **Chain of Thought Prompting Elicits Reasoning in Large Language Models**. Jan. 2022. [paper](http://arxiv.org/abs/2201.11903).
 3. Welleck, Sean, et al. **NaturalProofs: Mathematical Theorem Proving in Natural Language**. June 2021. [paper](http://arxiv.org/abs/2104.01112).
@@ -40,7 +40,7 @@ A collection of research papers related to Knowledge Reasoning with Natural Lang
 - [ATOMIC 2020](https://allenai.org/data/atomic-2020): A commonsense knowledge graph with 1.33M everyday inferential knowledge tuples about entities and events.
 - [TransOMCS](https://github.com/HKUST-KnowComp/TransOMCS): TransOMCS contains 20 commonsense relations, 101 thousand unique words, and 18.48 million triplets.
 
-### Related GitHub Repository
+### Related GitHub Repositories
 - [Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers): Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Reasoning, natural language reasoning and any other topics connecting deep learning and reasoning.
 
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning): A collection of research papers and software related to explainability in graph machine learning.
