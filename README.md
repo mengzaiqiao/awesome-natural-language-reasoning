@@ -2,7 +2,7 @@
 
 A collection of research papers related to Knowledge Reasoning with Natural Language Models. 
 
-![](https://img.shields.io/github/last-commit/mengzaiqiao/awesome-natural-language-reasoning) Mainly contributed and maintained by [Zaiqiao](https://github.com/davidlvxin), [Moy](https://github.com/zhangdiey) and [Songbo](https://github.com/songbohu). 
+![](https://img.shields.io/github/last-commit/mengzaiqiao/awesome-natural-language-reasoning) Mainly contributed and maintained by [Zaiqiao](https://github.com/mengzaiqiao), [Moy](https://github.com/zhangdiey) and [Songbo](https://github.com/songbohu). 
 
 ![](https://img.shields.io/badge/PRs-Welcome-red) All PRs and contritutions are very welcome!
 
